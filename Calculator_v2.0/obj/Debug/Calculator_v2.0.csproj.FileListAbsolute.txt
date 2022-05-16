@@ -1,0 +1,10 @@
+C:\Users\PERSONAL COMPUTER\source\repos\Calculator_v2.0\Calculator_v2.0\bin\Debug\Calculator_v2.0.exe.config
+C:\Users\PERSONAL COMPUTER\source\repos\Calculator_v2.0\Calculator_v2.0\bin\Debug\Calculator_v2.0.exe
+C:\Users\PERSONAL COMPUTER\source\repos\Calculator_v2.0\Calculator_v2.0\bin\Debug\Calculator_v2.0.pdb
+C:\Users\PERSONAL COMPUTER\source\repos\Calculator_v2.0\Calculator_v2.0\obj\Debug\Calculator_v2.0.csproj.AssemblyReference.cache
+C:\Users\PERSONAL COMPUTER\source\repos\Calculator_v2.0\Calculator_v2.0\obj\Debug\Calculator_v2._0.Form1.resources
+C:\Users\PERSONAL COMPUTER\source\repos\Calculator_v2.0\Calculator_v2.0\obj\Debug\Calculator_v2._0.Properties.Resources.resources
+C:\Users\PERSONAL COMPUTER\source\repos\Calculator_v2.0\Calculator_v2.0\obj\Debug\Calculator_v2.0.csproj.GenerateResource.cache
+C:\Users\PERSONAL COMPUTER\source\repos\Calculator_v2.0\Calculator_v2.0\obj\Debug\Calculator_v2.0.csproj.CoreCompileInputs.cache
+C:\Users\PERSONAL COMPUTER\source\repos\Calculator_v2.0\Calculator_v2.0\obj\Debug\Calculator_v2.0.exe
+C:\Users\PERSONAL COMPUTER\source\repos\Calculator_v2.0\Calculator_v2.0\obj\Debug\Calculator_v2.0.pdb
